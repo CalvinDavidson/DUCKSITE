@@ -1,0 +1,96 @@
+.NAV-img {
+  width: 50%;
+}
+
+.Header {
+  background-color: #f0d78c;
+}
+
+.Header-Text {
+  position: absolute;
+  color: white;
+  font-family: Extra-Bold;
+  margin-left: 25%;
+  margin-top: 70px;
+  font-size: 500%;
+}
+
+h2 {
+  font-family: Extra-Bold;
+  font-size: 300%;
+}
+
+.Header-Text2 {
+  color: white;
+  font-family: Extra-Bold;
+  text-align: center;
+  font-size: 350%;
+}
+
+.Header-Img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 150px;
+  width: 500px;
+}
+
+#Learning {
+  background-color: white;
+  text-align: center;
+}
+
+.Learning-Header {
+  padding-top: 25px;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.card {
+  margin-top: 70px;
+}
+
+#pricing {
+  background-color: #f0f0f0;
+}
+
+.WhyDevelopSquad {
+  background-color: #4f81c7;
+  text-align: center;
+  color: white;
+  height: 250px;
+}
+
+.LearnSkills {
+  margin-top: 50px;
+}
+
+.icon {
+  color: #64c4ed;
+}
+
+.icon:hover {
+  color: #4f81c7;
+}
+
+#Learning {
+  padding-top: 50px;
+}
+
+#Footer {
+  background-color: #6b778d;
+}
+
+.Why {
+  padding-top: 50px;
+}
+
+.what {
+  margin-top: 50px;
+}
+.Footer {
+  background-color: ##4752cf;
+}
